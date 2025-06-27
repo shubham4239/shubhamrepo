@@ -1,0 +1,30 @@
+hr{
+    border:2px solid #EFE4D2;
+}
+p{
+    color:#254D70;
+}
+h1{
+    color:#131D4F;
+}
+h2{
+    color:#954C2E;
+}
+h3{
+    color:#954C2E;
+}
+i{
+    color:#254D70;
+}
+ul{
+    color:#254D70;
+}
+a{
+    color:#0000FF;
+}
+a:visited{
+    color:purple;
+}
+a:hover{
+    color:#254D70;
+}

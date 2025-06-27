@@ -1,0 +1,48 @@
+hr{
+    border:2px solid red;
+}
+div{
+    width: 250px;
+    height:45px;
+    border: 2px solid black;
+    padding:10px;
+    margin-top:20px;
+    font-size: 0.8rem;
+}
+#div2{
+    width: 190px;
+    height:60px;
+    position:relative;
+    left:10px;
+    top:20px;
+    border-color: blue;
+}
+#div3{
+    width:145px;
+    height:80px;
+    position:relative;
+    bottom:95px;
+    left: 285px;
+    border-color: blue;
+}
+.border{
+    border:2px green solid;
+    padding:3px;
+    position:relative;
+    top:7px;
+}
+p{
+    width:175px;
+    border:2px green solid;
+    padding:3px;
+    position:relative;
+    bottom:7px;
+}
+#a1{
+    position:relative;
+    left:10px;
+}
+#a2{
+    position:relative;
+    top:20px;
+}
